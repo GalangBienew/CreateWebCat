@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Comforter+Brush&family=Playfair+Display:ital@1&display=swap");
+
+.Corousel-start>h3 {
+    background-color: antiquewhite;
+    margin-bottom: 2rem;
+    font-size: 22px;
+    font-family: 'Comforter Brush';
+    padding-bottom: 6px;
+}

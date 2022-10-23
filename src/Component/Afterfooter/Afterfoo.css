@@ -1,0 +1,10 @@
+.after-foo {
+    height: auto;
+    margin-bottom: 2px;
+}
+
+img {
+    width: 100px;
+    border: 4px solid yellow;
+    border-radius: 20px;
+}
