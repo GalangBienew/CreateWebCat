@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Apilearn/static/css/main.5bdb0386.css",
+    "main.js": "/Apilearn/static/js/main.1deafa72.js",
+    "static/media/Cat.png": "/Apilearn/static/media/Cat.6274d7dccbaf7a097aa3.png",
+    "static/media/profilCat.jpg": "/Apilearn/static/media/profilCat.82ba62cd3b666f95f9f3.jpg",
+    "index.html": "/Apilearn/index.html",
+    "main.5bdb0386.css.map": "/Apilearn/static/css/main.5bdb0386.css.map",
+    "main.1deafa72.js.map": "/Apilearn/static/js/main.1deafa72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bdb0386.css",
+    "static/js/main.1deafa72.js"
+  ]
+}
